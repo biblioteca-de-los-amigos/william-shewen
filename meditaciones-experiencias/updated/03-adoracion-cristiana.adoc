@@ -1,4 +1,5 @@
-== Con Respecto a la Adoración Cristiana; En qué Consistey Cómo se Realiza
+[#worship, short="La Adoración Cristiana"]
+== Con Respecto a la Adoración Cristiana; En qué Consiste y Cómo se Realiza
 
 Hay una gran disputa entre las diversas sectas y
 denominaciones de la Cristiandad acerca de la adoración,
@@ -221,6 +222,7 @@ y a morar en ese monte santo donde no hay ningún destruidor,
 y a habitar en esa cuidad cuyo arquitecto y constructor es Dios.
 ¡A Él sea la alabanza y la gloria por siempre!
 
+[.centered]
 === Una Pocas Palabras Añadidas para el Lector Sensible
 
 Tú que despertaste del sueño de la muerte, y te levantaste de la tumba del pecado,
